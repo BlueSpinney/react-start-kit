@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
+// variables
+
 let second = 0;
 let gop = ""
 let dict = {
