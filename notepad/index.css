@@ -1,0 +1,21 @@
+
+  p{
+    color:rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  button{
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    border: 2px solid #ad21a1;
+    padding: 10px;
+  }
+  button:hover{
+    border-radius: 25px;
+    border: 3px solid #ad21a1;
+    padding: 10px;
+
+  }
+  .background {
+    background-color: rgb(0, 0, 0);
+  }
